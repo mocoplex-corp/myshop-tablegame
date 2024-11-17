@@ -1,1 +1,1 @@
-# myshop-tablegame
+마이샵 테이블게임 배포 버전관리
